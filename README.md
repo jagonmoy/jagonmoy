@@ -34,12 +34,10 @@ Along with this , I am trying to learn other basic Computer Science Fundamentals
 I am familiar with Web Developement and Android Developement . Currently I am Exploring Flutter to Develop Cross Platform Applications. <br><br>
  
 ### <h3 align="left"> Connect With Me:</h3>
+<a href="mailto:jagonmoydey1997@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto:jagonmoydey1997@gmail.com" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://codeforces.com/profile/Jagonmoy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/jagonmoy/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Jagonmoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/Jagonmoy" height="30" width="40" /></a>
-
-
-
 
 <!--
 **jagonmoy/jagonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
