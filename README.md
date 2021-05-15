@@ -30,9 +30,8 @@ I am more into **Compettive Programming** now . I am enjoying solving complex pr
 Here are Some of my repositories which contain materials to Learn Different Data Structures and Algoritms . <br><br>
 [Number Theory](https://github.com/jagonmoy/Number-Theory) <br>
 [Graph Theory](https://github.com/jagonmoy/Graph-Theory) <br>
-[Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming) <br><br>
-
-I am familiar with Web Developement and Android Developement . Apart From Learning DSA , I am also Exploring Flutter to Develop Cross Platform Applications. <br><br>
+[Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming) <br>
+Apart From Learning DSA , I am also Exploring Flutter to Develop Cross Platform Applications. <br><br>
  
 ### <h3 align="left"> Connect With Me:</h3>
 
