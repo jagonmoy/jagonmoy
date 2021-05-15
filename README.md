@@ -31,7 +31,7 @@ Here are Some of repositories which contain materials to Learn Different Data St
 [Graph Theory](https://github.com/jagonmoy/Graph-Theory) <br>
 [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming) <br><br>
 Along with this , I am trying to learn other basic Computer Science Fundamentals such as **Object Oriented Programming** , **Design Pattern** , **Database Management Systems** , **Operating Systems** etc . <br>
-I am also Exploring the areas of Web Developement and Android Developement . Currently I am Exploring Flutter to Develop Cross Platform Applications. <br><br>
+I am familiar with Web Developement and Android Developement . Currently I am Exploring Flutter to Develop Cross Platform Applications. <br><br>
 
 ## Find Me In : 
 
