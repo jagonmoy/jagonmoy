@@ -32,17 +32,14 @@ Here are Some of repositories which contain materials to Learn Different Data St
 [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming) <br><br>
 Along with this , I am trying to learn other basic Computer Science Fundamentals such as **Object Oriented Programming** , **Design Pattern** , **Database Management Systems** , **Operating Systems** etc . <br>
 I am familiar with Web Developement and Android Developement . Currently I am Exploring Flutter to Develop Cross Platform Applications. <br><br>
+ 
+### <h3 align="left"> Connect With Me:</h3>
+<a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://codeforces.com/profile/Jagonmoy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Jagonmoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/Jagonmoy" height="30" width="40" /></a>
 
-## Find Me In : 
 
-<p align='center'>
- <a href = "https://www.linkedin.com/in/jagonmoy/" > <img src = "Images/logoLI.png" width = "25" length = "25"> </a>
- <a href = "https://www.facebook.com/jagonmoy/" > <img src = "Images/logoFB.png" width = "25" length = "25"> </a> 
- <h3> StopStalk :  </h3>
- <h3> Codeforces :  </h3>
- <h3> Uhunt : </h3>     
- <h3> Light OJ :   </h3>
-<p/>
+
 
 <!--
 **jagonmoy/jagonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
