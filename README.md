@@ -44,10 +44,6 @@ I am also Exploring the areas of Web Developement and Android Developement . Cur
  <h3> Light OJ :   </h3>
 <p/>
 
-<p align='center' >
-<img src="https://wakatime.com/share/@jagonmoy/0c994ff4-d25e-4d63-9966-8ba96411b8da.png" />
-</p>
-
 <!--
 **jagonmoy/jagonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
