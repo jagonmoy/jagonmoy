@@ -3,7 +3,8 @@
 
 ### Hi 👋, This is **Jagonmoy Dey**
 I am Currently a 3rd-year **Software Engineering** Student at the **Institute of Information and Communication Technology** at **Shahjalal University of Science and Technology.** 
-I am Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
+Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
+- 📫 Reach me at : **jagonmoy25@student.sust.edu** <br>
 
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=jagonmoy">
@@ -31,13 +32,18 @@ Here are Some of repositories which contain materials to Learn Different Data St
 [Graph Theory](https://github.com/jagonmoy/Graph-Theory) <br>
 [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming) <br><br>
 Along with this , I am trying to learn other basic Computer Science Fundamentals such as **Object Oriented Programming** , **Design Pattern** , **Database Management Systems** , **Operating Systems** etc . <br>
-I am familiar with Web Developement and Android Developement . Currently I am Exploring Flutter to Develop Cross Platform Applications. <br><br>
+I am familiar with Web Developement and Android Developement . Apart From Learning DSA , I am also Exploring Flutter to Develop Cross Platform Applications. <br><br>
  
 ### <h3 align="left"> Connect With Me:</h3>
-<a href="mailto:jagonmoydey1997@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto:jagonmoydey1997@gmail.com" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/jagonmoy/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Jagonmoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/Jagonmoy" height="30" width="40" /></a>
+
+### <h3 allign = "left" > Comptetitive Programming Profile </h3>
+ [Stopstalk](https://www.stopstalk.com/dashboard) <br>
+ [Light OJ](https://lightoj.com/user/jagonmoy)<br>
+ [Uhunt](https://uhunt.onlinejudge.org/id/954978)<br>
+ [Codeforces](https://codeforces.com/profile/Jagonmoy)<br>
 
 <!--
 **jagonmoy/jagonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +55,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
