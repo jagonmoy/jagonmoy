@@ -36,8 +36,8 @@ I am familiar with Web Developement and Android Developement . Currently I am Ex
 ## Find Me In : 
 
 <p align='center'>
- <h3> Linked In :  </h3>
- <h3> Facebook :   </h3>
+ <a href = "https://www.linkedin.com/in/jagonmoy/" > <img src = "Images/logoLI.png" width = "25" length = "25"> </a>
+ <a href = "https://www.facebook.com/jagonmoy/" > <img src = "Images/logoFB.png" width = "25" length = "25"> </a> 
  <h3> StopStalk :  </h3>
  <h3> Codeforces :  </h3>
  <h3> Uhunt : </h3>     
