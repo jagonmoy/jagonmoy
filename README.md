@@ -26,7 +26,7 @@ I am Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br
 
 ## Currently Learning 
 I am more into **Compettive Programming** now . I am enjoying solving complex problems and learning new **Data Structures and Algorithms** . <br><br>
-Here are Some of repositories which contain materials to Learn Different Data Structures and Algoritm topics . <br><br>
+Here are Some of repositories which contain materials to Learn Different Data Structures and Algoritms . <br><br>
 [Number Theory](https://github.com/jagonmoy/Number-Theory) <br>
 [Graph Theory](https://github.com/jagonmoy/Graph-Theory) <br>
 [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming) <br><br>
@@ -40,6 +40,7 @@ I am also Exploring the areas of Web Developement and Android Developement . Cur
  <h3> Facebook :   </h3>
  <h3> StopStalk :  </h3>
  <h3> Codeforces :  </h3>
+ <h3> Uhunt : </h3>     
  <h3> Light OJ :   </h3>
 <p/>
 
