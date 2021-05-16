@@ -2,7 +2,7 @@
 
 
 ### Hi 👋, This is **Jagonmoy Dey**
-I am Currently a 3rd-year **Software Engineering** Student at the **Institute of Information and Communication Technology** at **Shahjalal University of Science and Technology.** 
+I am Currently a 3rd-year **Software Engineering** Student at the **Institute of Information and Communication Technology** in **Shahjalal University of Science and Technology.** 
 Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 - 📫 Reach me at : **jagonmoy25@student.sust.edu** <br>
 
@@ -39,7 +39,7 @@ Apart From Learning DSA , I am also Exploring Flutter to Develop Cross Platform 
 <a href="https://www.facebook.com/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/jagonmoy/" height="30" width="40" /></a>
 
 ### <h3 allign = "left" > Comptetitive Programming Profile </h3>
- [Stopstalk](https://www.stopstalk.com/dashboard) <br>
+ [Stopstalk](https://www.stopstalk.com/user/profile/jagonmoy) <br>
  [Light OJ](https://lightoj.com/user/jagonmoy)<br>
  [Uhunt](https://uhunt.onlinejudge.org/id/954978)<br>
  [Codeforces](https://codeforces.com/profile/Jagonmoy)<br>
