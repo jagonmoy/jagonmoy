@@ -13,15 +13,10 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 
 ## Familiar With 
 
-- C++, C , Javascript , Java , Dart , Python
-- CSS , HTML
-- Nodejs
-- Express , React
-- MongoDB , MySql
-- git
-- Android Studio , Visual Studio Code 
+- C++, C , java
 - Competitive Programming
 - Data Structures and Algorithms
+
 
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jagonmoy&hide_border=true&layout=compact"> 
 
