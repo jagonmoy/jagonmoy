@@ -2,9 +2,9 @@
 
 
 ### Hi 👋, This is **Jagonmoy Dey**
-I am Currently a 3rd-year **Software Engineering** Student at the **Institute of Information and Communication Technology** in **Shahjalal University of Science and Technology.** 
+I am Currently a Final year B.Sc. **Software Engineering** Student at the **Institute of Information and Communication Technology** in **Shahjalal University of Science and Technology.** I am now working as a Trainee Software Engineer in Cefalo Bangladesh Ltd.
 Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
-- 📫 Reach me at : **jagonmoy25@student.sust.edu** <br>
+- 📫 Reach me at : **jagonmoy1997@gmail.com** <br>
 
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=jagonmoy">
@@ -16,12 +16,14 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 - C++, C , java
 - Competitive Programming
 - Data Structures and Algorithms
+- Windowns,Linux
 
 
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jagonmoy&hide_border=true&layout=compact"> 
 
 ## Currently Learning 
-I am more into **Compettive Programming** now . I am enjoying solving complex problems and learning new **Data Structures and Algorithms** . <br>
+Currently Learning Basics of Web Development which includes Concepts like HTTP,HTTPS,REST API .
+I am also doing **Compettive Programming** as part of my passion . I am enjoying solving complex problems and learning new **Data Structures and Algorithms** . <br>
 Here are Some of my repositories which contain materials to Learn Different Data Structures and Algorithms . <br>
 [Number Theory](https://github.com/jagonmoy/Number-Theory) <br>
 [Graph Theory](https://github.com/jagonmoy/Graph-Theory) <br>
