@@ -17,6 +17,7 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 - Competitive Programming
 - Data Structures and Algorithms
 - Windowns,Linux
+- Git & Github
 
 
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jagonmoy&hide_border=true&layout=compact"> 
