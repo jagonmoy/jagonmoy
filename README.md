@@ -22,9 +22,6 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jagonmoy&hide_border=true&layout=compact"> 
 
-## Currently Learning 
-Currently Learning Basics of Web Development which includes Concepts like HTTP, HTTPS, REST API .
-I am also doing **Compettive Programming** as part of my passion . I am enjoying solving complex problems and learning new **Data Structures and Algorithms** . <br>
 Here are Some of my repositories which contain materials to Learn Different Data Structures and Algorithms . <br>
 [Number Theory](https://github.com/jagonmoy/Number-Theory) <br>
 [Graph Theory](https://github.com/jagonmoy/Graph-Theory) <br>
