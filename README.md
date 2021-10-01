@@ -22,7 +22,9 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jagonmoy&hide_border=true&layout=compact"> 
 
-Here are Some of my repositories which contain materials to Learn Different Data Structures and Algorithms . <br>
+
+## Some of my repositories containing DSA Resources<br>
+
 [Number Theory](https://github.com/jagonmoy/Number-Theory) <br>
 [Graph Theory](https://github.com/jagonmoy/Graph-Theory) <br>
 [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming) <br>
