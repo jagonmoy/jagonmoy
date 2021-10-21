@@ -19,6 +19,9 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 - Windowns,Linux
 - Git & Github
 
+## Currently Learning 
+- Nodejs,ExpressJs
+- MongoDB
 
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jagonmoy&hide_border=true&layout=compact"> 
 
