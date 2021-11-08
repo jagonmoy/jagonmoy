@@ -20,7 +20,7 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 - Git & Github
 
 ## Currently Learning 
-- Nodejs,ExpressJs
+- NodeJs,ExpressJs
 - MongoDB
 - ReactJs
 
