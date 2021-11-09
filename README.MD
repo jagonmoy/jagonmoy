@@ -6,9 +6,6 @@ I am Currently a Final year B.Sc. **Software Engineering** Student at the **Inst
 Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 - 📫 Reach me at : **jagonmoy1997@gmail.com** <br>
 
-<p align='center'>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=jagonmoy">
-
 <p/>
 
 ## Familiar With 
@@ -23,9 +20,6 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 - NodeJs,ExpressJs
 - MongoDB
 - ReactJs
-
-<img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jagonmoy&hide_border=true&layout=compact"> 
-
 
 ## Some of my repositories containing DSA Resources
 
