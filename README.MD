@@ -10,7 +10,7 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 
 ## Familiar With 
 
-- C++, C , java
+- C++, C , java, javascript 
 - Competitive Programming
 - Data Structures and Algorithms
 - Windowns,Linux
