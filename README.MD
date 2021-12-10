@@ -17,14 +17,9 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 - Unit Testing : Jest , Sinon
 - Database : MongoDB 
 - Frontend : ReactJs
+- Devops : Docker,Heroku
 - Competitive Programming
 - Data Structures and Algorithms
-
-## Currently Learning 
-- NodeJs,ExpressJs
-- 
-- MongoDB
-- ReactJs
 
 ## Some of my repositories containing DSA Resources
 
