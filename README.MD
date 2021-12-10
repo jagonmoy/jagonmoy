@@ -10,14 +10,19 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 
 ## Familiar With 
 
-- C++, C , java, javascript 
+- Languages :  C++, C , java, javascript 
+- Operating System : Windowns,Linux
+- Version Control : Git & Github
+- Web Backend : NodeJs , ExpressJs
+- Unit Testing : Jest , Sinon
+- Database : MongoDB 
+- Frontend : ReactJs
 - Competitive Programming
 - Data Structures and Algorithms
-- Windowns,Linux
-- Git & Github
 
 ## Currently Learning 
 - NodeJs,ExpressJs
+- 
 - MongoDB
 - ReactJs
 
