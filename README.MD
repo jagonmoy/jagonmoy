@@ -16,7 +16,7 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 - Web Backend : NodeJs , ExpressJs
 - Unit Testing : Jest , Sinon
 - Database : MongoDB 
-- Frontend : ReactJs
+- Web Frontend : ReactJs
 - Devops : Docker,Heroku
 - Competitive Programming
 - Data Structures and Algorithms
