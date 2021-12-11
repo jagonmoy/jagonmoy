@@ -10,16 +10,16 @@ Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
 
 ## Familiar With 
 
-- Languages :  C++, C , java, javascript 
-- Operating System : Windowns,Linux
-- Version Control : Git & Github
-- Web Backend : NodeJs , ExpressJs
-- Unit Testing : Jest , Sinon
-- Database : MongoDB 
-- Web Frontend : ReactJs
-- Devops : Docker,Heroku
-- Competitive Programming
-- Data Structures and Algorithms
+- **Languages** :  C++, C , java, javascript 
+- **Operating System** : Windowns,Linux
+- **Version Control** : Git & Github
+- **Web Backend** : NodeJs , ExpressJs
+- **Unit Testing** : Jest , Sinon
+- **Database** : MongoDB 
+- **Web Frontend** : ReactJs
+- **Devops** : Docker,Heroku
+- **Competitive Programming**
+- **Data Structures and Algorithms**
 
 ## Some of my repositories containing DSA Resources
 
