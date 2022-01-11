@@ -1,11 +1,8 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jagonmoy)
 
-#Test
-
-
 ### Hi 👋, This is **Jagonmoy Dey**
 I am Currently a Final year B.Sc. **Software Engineering** Student at the **Institute of Information and Communication Technology** in **Shahjalal University of Science and Technology.** I am now working as a Trainee Software Engineer in **CEFALO Bangladesh Ltd.**
-Passionate about Solving Complex Problems and Learning New Tech Stuffs. <br><br>
+Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
 - 📫 Reach me at : **jagonmoydey1997@gmail.com** <br>
 
 <p/>
