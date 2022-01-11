@@ -10,7 +10,7 @@ Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
 ## Familiar With 
 
 - **Languages** :  C++, C , java, javascript 
-- **Operating System** : Windowns,Linux
+- **Operating System** : Windowns,Linux,MacOS
 - **Version Control** : Git & Github
 - **Web Backend** : NodeJs , ExpressJs
 - **Unit Testing** : Jest , Sinon
