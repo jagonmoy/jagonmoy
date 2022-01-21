@@ -41,7 +41,7 @@ Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
  
  
  ![Jagonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagonmoy&theme=radical) 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagonmoy&layout=compact&hide=php,c,html,roff&langs_count=10" alt="Shruti3004" /> 
+ 
 <!--
 **jagonmoy/jagonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
