@@ -36,8 +36,11 @@ Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
  [Stopstalk](https://www.stopstalk.com/user/profile/jagonmoy) <br>
  [Light OJ](https://lightoj.com/user/jagonmoy)<br>
  [Uhunt](https://uhunt.onlinejudge.org/id/954978)<br>
- [Codeforces](https://codeforces.com/profile/Jagonmoy)<br>
-
+ [Codeforces](https://codeforces.com/profile/Jagonmoy)<br> 
+ 
+ 
+ 
+ ![Ranak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagonmoy&theme=radical)
 <!--
 **jagonmoy/jagonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
