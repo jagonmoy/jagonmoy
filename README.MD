@@ -10,7 +10,7 @@ Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
 ## Familiar With 
 
 - **Languages** :  C++, C , java, javascript 
-- **Operating System** : Windowns,Linux,MacOS
+- **Operating System** : Windows,Linux,MacOS
 - **Version Control** : Git & Github
 - **Web Backend** : NodeJs , ExpressJs
 - **Unit Testing** : Jest , Sinon
@@ -32,7 +32,7 @@ Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/jagonmoy/" height="30" width="40" /></a>
 
-### <h3 allign = "left" > Comptetitive Programming Profile </h3>
+### <h3 allign = "left" > Competitive Programming Profile </h3>
  [Stopstalk](https://www.stopstalk.com/user/profile/jagonmoy) <br>
  [Light OJ](https://lightoj.com/user/jagonmoy)<br>
  [Uhunt](https://uhunt.onlinejudge.org/id/954978)<br>
