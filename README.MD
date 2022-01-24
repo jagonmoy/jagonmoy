@@ -20,6 +20,13 @@ Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
 - **Competitive Programming**
 - **Data Structures and Algorithms**
 
+
+## Interests
+
+- **Web Development**
+- **Problem Solving**
+- **Machine Learning**
+
 ## Some of my repositories containing DSA Resources
 
 [Number Theory](https://github.com/jagonmoy/Number-Theory) <br>
