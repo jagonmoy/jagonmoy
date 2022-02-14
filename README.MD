@@ -25,7 +25,7 @@ Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
 
 - **Web Development**
 - **Problem Solving**
-- **Machine Learning**
+- **Deep Learning**
 
 ## Some of my repositories containing DSA Resources
 
