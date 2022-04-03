@@ -1,11 +1,14 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jagonmoy)
 
 ### Hi 👋, This is **Jagonmoy Dey**
-I am Currently a Final year B.Sc. **Software Engineering** Student at the **Institute of Information and Communication Technology** in **Shahjalal University of Science and Technology.** I am now working as a Trainee Software Engineer in **CEFALO Bangladesh Ltd.**
+I am Currently a Final year B.Sc. **Software Engineering** Student at the **Institute of Information and Communication Technology** in **Shahjalal University of Science and Technology.** 
 Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
 - 📫 Reach me at : **jagonmoydey1997@gmail.com** <br>
 
 <p/>
+
+## Experience 
+ - Worked 6 month as a trainee software engineer in **CEFALO Bangladesh Limited** . Where I was trained at Javascript based technology . I have learnt Javascript, NodeJs, ExpressJs, REST API , React , MongoDB , JEST , Sinon ,Docker etc . These are the [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) part of my blog app which I created as a part of my trainning program and implemented the above technologies . I have also worked in a group project named [slackbook](https://github.com/cefalobd/slackbook) which was an integration of facebook api and slack api .
 
 ## Familiar With 
 
