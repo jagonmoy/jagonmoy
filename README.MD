@@ -12,7 +12,7 @@ Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
 
 ## Familiar With 
 
-- **Languages** :  C++, C , java, javascript 
+- **Languages** :  C++, C,java,python,javascript 
 - **Operating System** : Windows,Linux,MacOS
 - **Version Control** : Git & Github
 - **Web Backend** : NodeJs , ExpressJs
