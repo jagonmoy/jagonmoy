@@ -1,15 +1,14 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jagonmoy)
 
 ### Hi 👋, This is **Jagonmoy Dey**
-I am Currently a Final year B.Sc. **Software Engineering** Student at the **Institute of Information and Communication Technology** in **Shahjalal University of Science and Technology.** 
-Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
+I'm a final-year B.Sc. **software engineering** student at Shahjalal University of Science and Technology's Institute of Information and Communication Technology. Dedicated to **Problem Solving** and **Learning New Tech Stuffs**
+<br><br>
 - 📫 Reach me at : **jagonmoydey1997@gmail.com** <br>
 
 <p/>
 
 ## Experience 
- - Worked 6 months as a trainee software engineer in **CEFALO Bangladesh Limited** . Where I was trained in Javascript based technology . I have learnt Javascript, NodeJs, ExpressJs, REST API , React , MongoDB , JEST , Sinon ,Docker etc . These are the [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) part of my blog app which I created as a part of my trainning program and implemented the above technologies . I have also worked in a group project named [slackbook](https://github.com/cefalobd/slackbook) which was an integration of facebook api and slack api
-
+ - I spent six months working with **CEFALO Bangladesh Limited** as a trainee software engineer. where I received my training in technology based on **Javascript**. I've learned Javascript, NodeJs, ExpressJs, REST API, React, MongoDB, JEST, Sinon, Docker, and other programming languages. The [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) of my blog app, which I developed as a part of my training program and integrated the aforementioned technologies. Additionally, I participated in a team project called "Slackbook" (https://github.com/cefalobd/Slackbook), which combined the slack and facebook APIs.
 ## Familiar With 
 
 - **Languages** :  C++, C,java,python,javascript 
