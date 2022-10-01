@@ -8,7 +8,7 @@ I'm a final-year B.Sc. **software engineering** student at Shahjalal University 
 <p/>
 
 ## Experience 
- - I spent six months working with **CEFALO Bangladesh Limited** as a trainee software engineer. where I received my training in technology based on **Javascript**. I've learned Javascript, NodeJs, ExpressJs, REST API, React, MongoDB, JEST, Sinon, Docker, and other programming languages. The [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) of my blog app, which I developed as a part of my training program and integrated the aforementioned technologies. Additionally, I participated in a team project called [Slackbook](https://github.com/cefalobd/Slackbook), which combined the slack and facebook APIs.
+ - I have worked six month in  **CEFALO Bangladesh Limited** as a trainee software engineer. where I received my training in technology based on **Javascript**. I've learned Javascript, NodeJs, ExpressJs, REST API, React, MongoDB, JEST, Sinon, Docker, and other stuffs. The [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) of my blog app, which I developed as a part of my training program and integrated the aforementioned technologies. Additionally, I participated in a group project called [Slackbook](https://github.com/cefalobd/Slackbook), which was an integration of Facebook Graph API and Slack API .
 ## Familiar With 
 
 - **Languages** :  C++, C,java,python,javascript 
