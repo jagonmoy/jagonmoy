@@ -12,20 +12,20 @@ I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University 
 ## Experience 
  I have done 6 months Internship in  **CEFALO Bangladesh Limited** as a Trainee Software Engineer. 
  My Learning in Cefalo Includes -
- - #### **REST** Principles and Foundational knowledge of **HTTP**
- - #### I have created a CRUD application where I tried to follow proper JavaScript conventions and principles . This projects includes - 
-    - #### Implementation of **JWT** authentication, **content negotiation**, validations
-    - #### Unit Tested the backend with **Jest** 
-    - #### Learnt about Context API, React Hooks, React Routing and **Material-UI** While doing the frontend part. 
-    - #### Made a full API documentation . Have a look at the Backend Repository link given below !! 
-    - #### Learnt about Docker while deploying backend and frontend of my project. 
-    - #### **Technologies** : ExpressJs, ReactJs, Material-UI, MongoDB, Material-UI etc. 
-    - #### **Git Repository** : [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) 
- - #### I have worked in a group project called **SlackBook** which was an integration of Slack API and Facebook API . The main goal of this project was to automate message sharing, file sharing from a public channel of Slack to a fixed Facebook Group.  My responsibility includes - 
-    - #### Explore Slack API and Facebook API ,Finding appropriate API endpoints and proper credemtials to use those API .
-    - #### Working on the data processing and filtering  part to make the data suitable for using facebook API. 
-    - #### **Technologies** : JavaScript, Nodejs 
-    - #### **Git Repository** : [SlackBook](https://github.com/cefalobd/Slackbook)
+ -  **REST** Principles and Foundational knowledge of **HTTP**
+ -  I have created a CRUD application where I tried to follow proper JavaScript conventions and principles . This projects includes - 
+    - Implementation of **JWT** authentication, **content negotiation**, validations
+    - Unit Tested the backend with **Jest** 
+    - Learnt about Context API, React Hooks, React Routing and **Material-UI** While doing the frontend part. 
+    - Made a full API documentation . Have a look at the Backend Repository link given below !! 
+    - Learnt about Docker while deploying backend and frontend of my project. 
+    - **Technologies** : ExpressJs, ReactJs, Material-UI, MongoDB, Material-UI etc. 
+    - **Git Repository** : [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) 
+ - I have worked in a group project called **SlackBook** which was an integration of Slack API and Facebook API . The main goal of this project was to automate message sharing, file sharing from a public channel of Slack to a fixed Facebook Group.  My responsibility includes - 
+    - Explore Slack API and Facebook API ,Finding appropriate API endpoints and proper credemtials to use those API .
+    - Working on the data processing and filtering  part to make the data suitable for using facebook API. 
+    - **Technologies** : JavaScript, Nodejs 
+    - **Git Repository** : [SlackBook](https://github.com/cefalobd/Slackbook)
 
 ## Skills
 
@@ -42,12 +42,12 @@ I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University 
 
 ## Problem Solving Profile 
 
-   - #### Max Rating, 1512 in [Codeforces](https://codeforces.com/profile/Jagonmoy)
-   - #### Solved 1200+ Problems in various online judges which includes Codeforces, [UVA](https://uhunt.onlinejudge.org/id/954978), [LightOJ](https://lightoj.com/user/jagonmoy), [LeetCode](https://leetcode.com/Jagonmoy/) etc. 
-   - #### Some of my GitHub repositories contains different **Data Structures and Algorithms** related blog, problems and their solutions : 
-       - #### [Number Theory](https://github.com/jagonmoy/Number-Theory)
-       - #### [Graph Theory](https://github.com/jagonmoy/Graph-Theory) 
-       - #### [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming)
+   - Max Rating, 1512 in [Codeforces](https://codeforces.com/profile/Jagonmoy)
+   - Solved 1200+ Problems in various online judges which includes Codeforces, [UVA](https://uhunt.onlinejudge.org/id/954978), [LightOJ](https://lightoj.com/user/jagonmoy), [LeetCode](https://leetcode.com/Jagonmoy/) etc. 
+   - Some of my GitHub repositories contains different **Data Structures and Algorithms** related blog, problems and their solutions : 
+       - [Number Theory](https://github.com/jagonmoy/Number-Theory)
+       - [Graph Theory](https://github.com/jagonmoy/Graph-Theory) 
+       - [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming)
 
 
 ## Interests
