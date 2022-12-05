@@ -35,10 +35,7 @@ I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University 
 - **Database** : MongoDB 
 - **Version Control** : Git
 - **Unit Testing** : Jest
-
 - **Operating System** : MacOS, Linux
-
-
 
 ## Problem Solving Profile 
 
