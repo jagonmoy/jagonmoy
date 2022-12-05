@@ -22,7 +22,7 @@ I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University 
     - **Technologies** : ExpressJs, ReactJs, Material-UI, MongoDB, Material-UI etc. 
     - **Git Repository** : [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) 
  - I have worked in a group project called **SlackBook** which was an integration of Slack API and Facebook API . The main goal of this project was to automate message sharing, file sharing from a public channel of Slack to a fixed Facebook Group.  My responsibility includes - 
-    - Explore Slack API and Facebook API ,Finding appropriate API endpoints and proper credemtials to use those API .
+    - Exploring Slack API and Facebook API ,Finding appropriate API endpoints and proper credemtials to use those API .
     - Working on the data processing and filtering  part to make the data suitable for using facebook API. 
     - **Technologies** : JavaScript, Nodejs 
     - **Git Repository** : [SlackBook](https://github.com/cefalobd/Slackbook)
