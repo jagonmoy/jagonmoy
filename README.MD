@@ -29,7 +29,7 @@ I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University 
 
 ## Skills
 
-- **Languages** :  C, Python, JavaScript 
+- **Languages** :  C, JavaScript 
 - **Web Frontend** : ReactJs, Material-UI
 - **Web Backend** : NodeJs, ExpressJs
 - **Database** : MongoDB 
