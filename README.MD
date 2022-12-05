@@ -1,42 +1,57 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jagonmoy)
 
 ### Hi 👋, This is **Jagonmoy Dey**
-I am Currently a Final year B.Sc. **Software Engineering** Student at the **Institute of Information and Communication Technology** in **Shahjalal University of Science and Technology.** I am now working as a Trainee Software Engineer in **CEFALO Bangladesh Ltd.**
-Passionate about Solving Problems and Learning New Tech Stuffs. <br><br>
+I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University of Science and Technology's **Institute of Information and Communication Technology**. I'm interested in learning new technologies, software engineering norms, and problem-solving techniques.
+<br><br>
 - 📫 Reach me at : **jagonmoydey1997@gmail.com** <br>
+- Connect with me : <br> 
+<a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" /></a>
 
 <p/>
 
-## Familiar With 
+## Experience 
+ I have done 6 months Internship in  **CEFALO Bangladesh Limited** as a Trainee Software Engineer. 
+ My Learning in Cefalo Includes -
+ - #### **REST** Principles and Foundational knowledge of **HTTP**
+ - #### I have created a CRUD application where I tried to follow proper JavaScript conventions and principles . This projects includes - 
+    - #### Implementation of **JWT** authentication, **content negotiation**, validations
+    - #### Unit Tested the backend with **Jest** 
+    - #### Learnt about Context API, React Hooks, React Routing and **Material-UI** While doing the frontend part. 
+    - #### Made a full API documentation . Have a look at the Backend Repository link given below !! 
+    - #### Learnt about Docker while deploying backend and frontend of my project. 
+    - #### **Technologies** : ExpressJs, ReactJs, Material-UI, MongoDB, Material-UI etc. 
+    - #### **Git Repository** : [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) 
+ - #### I have worked in a group project called **SlackBook** which was an integration of Slack API and Facebook API . The main goal of this project was to automate message sharing, file sharing from a public channel of Slack to a fixed Facebook Group.  My responsibility includes - 
+    - #### Explore Slack API and Facebook API ,Finding appropriate API endpoints and proper credemtials to use those API .
+    - #### Working on the data processing and filtering  part to make the data suitable for using facebook API. 
+    - #### **Technologies** : JavaScript, Nodejs 
+    - #### **Git Repository** : [SlackBook](https://github.com/cefalobd/Slackbook)
 
-- **Languages** :  C++, C , java, javascript 
-- **Operating System** : Windowns,Linux,MacOS
-- **Version Control** : Git & Github
-- **Web Backend** : NodeJs , ExpressJs
-- **Unit Testing** : Jest , Sinon
+## Skills
+
+- **Languages** :  C, Python, JavaScript 
+- **Operating System** : MacOS, Linux
+- **Version Control** : Git
+- **Web Backend** : NodeJs, ExpressJs
+- **Unit Testing** : Jest
 - **Database** : MongoDB 
-- **Web Frontend** : ReactJs
-- **DevOps** : Docker,Heroku
-- **Competitive Programming**
-- **Data Structures and Algorithms**
+- **Web Frontend** : ReactJs, Material-UI
 
-## Some of my repositories containing DSA Resources
+## Problem Solving Profile 
 
-[Number Theory](https://github.com/jagonmoy/Number-Theory) <br>
-[Graph Theory](https://github.com/jagonmoy/Graph-Theory) <br>
-[Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming) <br>
+   - #### Max Rating, 1512 in [Codeforces](https://codeforces.com/profile/Jagonmoy)
+   - #### Solved 1200+ Problems in various online judges which includes Codeforces, [UVA](https://uhunt.onlinejudge.org/id/954978), [LightOJ](https://lightoj.com/user/jagonmoy), [LeetCode](https://leetcode.com/Jagonmoy/) etc. 
+   - #### Some of my GitHub repositories contains different **Data Structures and Algorithms** related blog, problems and their solutions : 
+       - #### [Number Theory](https://github.com/jagonmoy/Number-Theory)
+       - #### [Graph Theory](https://github.com/jagonmoy/Graph-Theory) 
+       - #### [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming)
 
- 
-### <h3 align="left"> Connect With Me:</h3>
 
-<a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/jagonmoy/" height="30" width="40" /></a>
+## Interests
 
-### <h3 allign = "left" > Comptetitive Programming Profile </h3>
- [Stopstalk](https://www.stopstalk.com/user/profile/jagonmoy) <br>
- [Light OJ](https://lightoj.com/user/jagonmoy)<br>
- [Uhunt](https://uhunt.onlinejudge.org/id/954978)<br>
- [Codeforces](https://codeforces.com/profile/Jagonmoy)<br>
+- **Web Development**
+- **Problem Solving**
+- **Deep Learning**
 
 <!--
 **jagonmoy/jagonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
