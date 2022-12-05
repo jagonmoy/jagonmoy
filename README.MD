@@ -30,12 +30,15 @@ I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University 
 ## Skills
 
 - **Languages** :  C, Python, JavaScript 
-- **Operating System** : MacOS, Linux
-- **Version Control** : Git
-- **Web Backend** : NodeJs, ExpressJs
-- **Unit Testing** : Jest
-- **Database** : MongoDB 
 - **Web Frontend** : ReactJs, Material-UI
+- **Web Backend** : NodeJs, ExpressJs
+- **Database** : MongoDB 
+- **Version Control** : Git
+- **Unit Testing** : Jest
+
+- **Operating System** : MacOS, Linux
+
+
 
 ## Problem Solving Profile 
 
