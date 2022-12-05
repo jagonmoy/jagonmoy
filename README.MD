@@ -4,7 +4,7 @@
 I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University of Science and Technology's **Institute of Information and Communication Technology**. I'm interested in learning new technologies, software engineering norms, and problem-solving techniques.
 <br><br>
 - 📫 Reach me at : **jagonmoydey1997@gmail.com** <br>
-- Connect with me : <br> 
+- Connect with me : <br> <br>
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" /></a>
 
 <p/>
