@@ -39,7 +39,7 @@ I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University 
 
 ## Problem Solving Profile 
 
-   - Max Rating, 1512 in [Codeforces](https://codeforces.com/profile/Jagonmoy)
+   - Max Rating, 1500+ in [Codeforces](https://codeforces.com/profile/Jagonmoy)
    - Solved 1200+ Problems in various online judges which includes Codeforces, [UVA](https://uhunt.onlinejudge.org/id/954978), [LightOJ](https://lightoj.com/user/jagonmoy), [LeetCode](https://leetcode.com/Jagonmoy/) etc. 
    - Some of my GitHub repositories contains different **Data Structures and Algorithms** related blog, problems and their solutions : 
        - [Number Theory](https://github.com/jagonmoy/Number-Theory)
