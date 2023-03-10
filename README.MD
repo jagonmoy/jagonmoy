@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=jagonmoy)
 
 ### Hi 👋, This is **Jagonmoy Dey**
-I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University of Science and Technology's **Institute of Information and Communication Technology**. I'm interested in learning new technologies, software engineering norms, and problem-solving techniques.
+I am a recent graduate who has completed **B.Sc in Software Engineering** from the Institute of Information and Communication Technology at Shahjalal University of Science and Technology. Currently, I am working as an **Associate Software Engineer** at [Cefalo](https://www.cefalo.com/en/).
 <br><br>
 - 📫 Reach me at : **jagonmoydey1997@gmail.com** <br>
 - Connect with me : <br> <br>
@@ -13,28 +13,22 @@ I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University 
  I have done 6 months Internship in  **CEFALO Bangladesh Limited** as a Trainee Software Engineer. 
  My Learning in Cefalo Includes -
  -  **REST** Principles and Foundational knowledge of **HTTP**
- -  I have created a CRUD application where I tried to follow proper JavaScript conventions and principles . This projects includes - 
-    - Implementation of **JWT** authentication, **content negotiation**, validations
-    - Unit Tested the backend with **Jest** 
-    - Learnt about Context API, React Hooks, React Routing and **Material-UI** While doing the frontend part. 
-    - Made a full API documentation . Have a look at the Backend Repository link given below !! 
-    - Learnt about Docker while deploying backend and frontend of my project. 
+ -  Fundamentals of JavaScript, NodeJs and  ExpressJS
+ -  JWT Authentication , Content Negotation, Unit Testing with Jest, Validation in both backend and frontend 
+ - Context API, React Hooks, React Routing and **Material-UI** 
+ - A CRUD App based on these learnings - 
     - **Technologies** : ExpressJs, ReactJs, Material-UI, MongoDB, Material-UI etc. 
     - **Git Repository** : [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) 
- - I have worked in a group project called **SlackBook** which was an integration of Slack API and Facebook API . The main goal of this project was to automate message sharing, file sharing from a public channel of Slack to a fixed Facebook Group.  My responsibility includes - 
-    - Exploring Slack API and Facebook API ,Finding appropriate API endpoints and proper credemtials to use those API .
-    - Working on the data processing and filtering  part to make the data suitable for using facebook API. 
+ - I have also worked in a group project called **SlackBook** which was an integration of Slack API and Facebook API which aimed to automate message/attachment sharing from slack to facebook. 
     - **Technologies** : JavaScript, Nodejs 
     - **Git Repository** : [SlackBook](https://github.com/cefalobd/Slackbook)
 
 ## Skills
 
-- **Languages** :  C++, Python, JavaScript 
-- **Web Frontend** : ReactJs, Material-UI
-- **Web Backend** : NodeJs, ExpressJs
+- **Languages** :  C++ , JavaScript 
+- **Web** : NodeJs, ExpressJs, ReactJs, Jest, 
 - **Database** : MongoDB 
 - **Version Control** : Git
-- **Unit Testing** : Jest
 - **Operating System** : MacOS, Linux
 
 ## Problem Solving Profile 
@@ -51,7 +45,7 @@ I'm a final-year B.Sc. **Software Engineering** student at Shahjalal University 
 
 - **Web Development**
 - **Problem Solving**
-- **Deep Learning**
+- **Natural Language Processing**
 
 ## My GitHub Stats
 
