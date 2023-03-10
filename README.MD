@@ -13,9 +13,9 @@ I am a recent graduate who has completed **B.Sc in Software Engineering** from t
  I have done 6 months Internship in  **CEFALO Bangladesh Limited** as a Trainee Software Engineer. 
  My Learning in Cefalo Includes -
  -  **REST** Principles and Foundational knowledge of **HTTP**
- -  Fundamentals of JavaScript, NodeJs and  ExpressJS
- -  JWT Authentication , Content Negotation, Unit Testing with Jest, Validation in both backend and frontend 
- - Context API, React Hooks, React Routing and **Material-UI** 
+ -  Fundamentals of **JavaScript**, **NodeJS** and  **ExpressJS**
+ -  **JWT** Authentication , **Content Negotation**, Unit Testing with **Jest**, Validation in both backend and frontend 
+ - **Context API**, **React Hooks**, **React Routing** and **Material-UI** 
  - A CRUD App based on these learnings - 
     - **Technologies** : ExpressJs, ReactJs, Material-UI, MongoDB, Material-UI etc. 
     - **Git Repository** : [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) 
