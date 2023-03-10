@@ -28,8 +28,6 @@ I am a recent graduate who has completed **B.Sc in Software Engineering** from t
 - **Languages** :  C++ , JavaScript 
 - **Web** : NodeJs, ExpressJs, ReactJs, Jest, 
 - **Database** : MongoDB 
-- **Version Control** : Git
-- **Operating System** : MacOS, Linux
 
 ## Problem Solving Profile 
 
