@@ -25,8 +25,8 @@ I am a recent graduate who has completed **B.Sc in Software Engineering** from t
 
 ## Skills
 
-- **Languages** :  C++ , JavaScript 
-- **Web** : NodeJs, ExpressJs, ReactJs, Jest, 
+- **Languages** :  C++ , JavaScript, TypeScript, Python
+- **Web** : NodeJs, ExpressJs, ReactJs, Jest, Redux Tool Kit
 - **Database** : MongoDB 
 
 ## Problem Solving Profile 
