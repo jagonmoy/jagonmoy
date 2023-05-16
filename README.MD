@@ -14,20 +14,16 @@ I am a recent graduate who has completed **B.Sc in Software Engineering** from t
 - ## Associate Software Engineer - Cefalo Bangladesh Limited. 
   *Duration : February 2023 - Present*
   <br></br>
-
   My Learning in Cefalo as an Associate Software Engineer Includes -
-  -  Developed a  frontend project using **TypeScript** and **ReactJs**, ensuring type safety and enhancing code quality.
-  -  Implemented reusable components to improve readability, maintainability, and efficiency.
-  -  Integrated **Redux** and **RTK Query** to efficiently manage application state and handle data fetching.
+  - Developed a  frontend project using **TypeScript** and **ReactJs**, ensuring type safety and enhancing code quality
+  - Implemented reusable components to improve readability, maintainability, and efficiency
+  - Integrated **Redux** and **RTK Query** to efficiently manage application state and handle data fetching
   - Performed unit testing using **React Testing Library** and **Jest**.
   - Used **Material-UI** for component design
-
   - Github Link: [typescript-react-frontend-dsabook](https://github.com/jagonmoy/typescript-react-frontend-dsabook)
 
   - **Technologies** : TypeScript, ReactJs, Redux, RTK Query, React Testing Library, Jest, Material-UI 
-
-  <br><br/>
-
+  <br></br>
 - ## Trainee Software Engineer - Cefalo Bangladesh Limited. 
   *Duration : September 2021 - March 2022*
   <br></br>
