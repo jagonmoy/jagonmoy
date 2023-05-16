@@ -45,7 +45,7 @@ I am a recent graduate who has completed **B.Sc in Software Engineering** from t
 ## Education 
 - **B.Sc in Software Engineering** - *Shahjalal University of Science and Technology (SUST)*
 
-  CGPA: 3.61 ( Among the top 10 results of my batch)
+  CGPA: 3.61 
 
 ## Skills
 
