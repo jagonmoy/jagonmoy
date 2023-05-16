@@ -1,33 +1,63 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=jagonmoy)
 
-### Hi 👋, This is **Jagonmoy Dey**
+
+<p align="center">Hi 👋, This is <strong>Jagonmoy Dey</strong></p>
+
 I am a recent graduate who has completed **B.Sc in Software Engineering** from the Institute of Information and Communication Technology at Shahjalal University of Science and Technology. Currently, I am working as an **Associate Software Engineer** at [Cefalo](https://www.cefalo.com/en/).
 <br><br>
 - 📫 Reach me at : **jagonmoydey1997@gmail.com** <br>
 - Connect with me : <br> <br>
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" /></a>
 
-<p/>
 
 ## Experience 
- I have done 6 months Internship in  **CEFALO Bangladesh Limited** as a Trainee Software Engineer. 
- My Learning in Cefalo Includes -
- -  **REST** Principles and Foundational knowledge of **HTTP**
- -  Fundamentals of **JavaScript**, **NodeJS** and  **ExpressJS**
- -  **JWT** Authentication , **Content Negotation**, Unit Testing with **Jest**, Validation in both backend and frontend 
- - **Context API**, **React Hooks**, **React Routing** and **Material-UI** 
- - A CRUD App based on these learnings - 
+
+- ## Associate Software Engineer - Cefalo Bangladesh Limited. 
+  *Duration : February 2023 - Present*
+  <br></br>
+
+  My Learning in Cefalo as an Associate Software Engineer Includes -
+  -  Developed a  frontend project using **TypeScript** and **ReactJs**, ensuring type safety and enhancing code quality.
+  -  Implemented reusable components to improve readability, maintainability, and efficiency.
+  -  Integrated **Redux** and **RTK Query** to efficiently manage application state and handle data fetching.
+  - Performed unit testing using **React Testing Library** and **Jest**.
+  - Used **Material-UI** for component design
+
+  - Github Link: [typescript-react-frontend-dsabook](https://github.com/jagonmoy/typescript-react-frontend-dsabook)
+
+  - **Technologies** : TypeScript, ReactJs, Redux, RTK Query, React Testing Library, Jest, Material-UI 
+
+  <br><br/>
+
+- ## Trainee Software Engineer - Cefalo Bangladesh Limited. 
+  *Duration : September 2021 - March 2022*
+  <br></br>
+
+  I successfully completed a 6-month dynamic internship at Cefalo Bangladesh Limited, where I focused on JavaScript-related technologies, including Node.js, Express.js, React.js, and Jest.
+
+  My Learning in Cefalo Includes -
+  -  **REST** Principles and Foundational knowledge of **HTTP**
+  -  Fundamentals of **JavaScript**, **NodeJS**,  **ExpressJS** and **ReactJs**
+  -  **JWT** Authentication , **Content Negotation**, Unit Testing with **Jest**, Validation in both backend and frontend 
+  - **Context API**, **React Hooks**, **React Routing** and **Material-UI** 
+  - A CRUD App based on these learnings - 
     - **Technologies** : ExpressJs, ReactJs, Material-UI, MongoDB, Material-UI etc. 
     - **Git Repository** : [Backend](https://github.com/jagonmoy/Cefalo-Internship-Nodejs) and [Frontend](https://github.com/jagonmoy/Cefalo-Internship-ReactJs) 
- - I have also worked in a group project called **SlackBook** which was an integration of Slack API and Facebook API which aimed to automate message/attachment sharing from slack to facebook. 
+  - I have also worked in a group project called **SlackBook** which was an integration of Slack API and Facebook API which aimed to automate message/attachment sharing from slack to facebook. 
     - **Technologies** : JavaScript, Nodejs 
     - **Git Repository** : [SlackBook](https://github.com/cefalobd/Slackbook)
 
+## Education 
+- **B.Sc in Software Engineering** - *Shahjalal University of Science and Technology (SUST)*
+
+  CGPA: 3.61 ( Among the top 10 results of my batch)
+
 ## Skills
 
-- **Languages** :  C++ , JavaScript, TypeScript, Python
-- **Web** : NodeJs, ExpressJs, ReactJs, Jest, Redux Tool Kit
-- **Database** : MongoDB 
+- **Languages** :  JavaScript, TypeScript, C, Python
+- **Web Frontend** :  ReactJs, Redux, RTK Query, Material-UI 
+- **Web Backend** : NodeJs, ExpressJs
+- **Unit Testing** : Jest, React-Testing Library
+- **Database** : Mongoose, MongoDB, Sequelize, MySQL
 
 ## Problem Solving Profile 
 
