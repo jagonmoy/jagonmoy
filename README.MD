@@ -43,9 +43,7 @@ I am a recent graduate who has completed **B.Sc in Software Engineering** from t
     - **Git Repository** : [SlackBook](https://github.com/cefalobd/Slackbook)
 
 ## Education 
-- **B.Sc in Software Engineering** - *Shahjalal University of Science and Technology (SUST)*
-
-  CGPA: 3.61 
+- **B.Sc in Software Engineering** - *Shahjalal University of Science and Technology (SUST)* - *CGPA: 3.61 (among the top 10 results of batch)* 
 
 ## Skills
 
