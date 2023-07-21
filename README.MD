@@ -9,13 +9,10 @@
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" /></a>
 
 <br>
-
-I am employed as an Associate Software Engineer at [Cefalo](https://www.cefalo.com/en/) Bangladesh Limited, currently working with Next.js. 
-<br><br>
-My professional experience includes working extensively with JavaScript and TypeScript technologies like **React.Js**, **Next.Js**, **Redux**, **Node.js**, **Express.js**, **Jest**, **Mongoose** , **Sequelize** etc. I have worked with both SQL ( **MySQL** ) and NoSQL ( **MongoDB** ) databases
+I am an Associate Software Engineer at [Cefalo](https://www.cefalo.com/en/). I have experience working with **JavaScript**,**TypeScript**,**React.js**, **Next.js**, **Redux**, **Node.js**, **Express.js**, **Jest**, **Playwright**, **MySQL**, and **MongoDB**.
 <br><br> 
-Additionally, during my undergraduate studies, I actively participated in competitive programming and successfully solved over 1200 problems across different online judge platforms ( [UVA](https://uhunt.onlinejudge.org/id/954978), [LightOJ](https://lightoj.com/user/jagonmoy), [LeetCode](https://leetcode.com/Jagonmoy/) ) and achieved Max rating of 1500+ in [Codeforces](https://codeforces.com/profile/Jagonmoy). Some of my GitHub repositories contains different Data Structures and Algorithms related blog, problems and their solutions . They include [Number Theory](https://github.com/jagonmoy/Number-Theory), [Graph Theory](https://github.com/jagonmoy/Graph-Theory), [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming) etc. 
-
+In my academic career, I have actively engaged in problem-solving through various online judges like [LightOJ](https://lightoj.com/user/jagonmoy), [UVA](https://uhunt.onlinejudge.org/id/954978), [Codeforces](https://codeforces.com/profile/Jagonmoy), and [LeetCode](https://leetcode.com/Jagonmoy/). I have also created resources to help others learn and practice different data structures and algorithms, including [Number Theory](https://github.com/jagonmoy/Number-Theory), [Graph Theory](https://github.com/jagonmoy/Graph-Theory), and [Dynamic Programming](https://github.com/jagonmoy/Dynamic-Programming).
+<br><br>
 During my undergrad thesis, I worked in the field of Natural Language Processing titled **Speaker Diarization with Speech Recognition in Bangla**. For learning Deep Learning I practiced several Deep learning Terminologies [Deep-Learning-Exercises](https://github.com/jagonmoy/Deep-Learning-Exercises)
 <br><br>
 
@@ -42,17 +39,7 @@ During my undergrad thesis, I worked in the field of Natural Language Processing
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-<!--
-**jagonmoy/jagonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Next.Js, Playwright, Jest etc.
+- 🌱 I’m currently learning React.Js, Next.Js
+- 💬 Ask me about JavaScript, TypeScript, React.Js, Next.Js 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
