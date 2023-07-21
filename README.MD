@@ -37,8 +37,3 @@ During my undergrad thesis, I worked in the field of Natural Language Processing
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-
-- 🔭 I’m currently working on Next.Js, Playwright, Jest etc.
-- 🌱 I’m currently learning React.Js, Next.Js
-- 💬 Ask me about JavaScript, TypeScript, React.Js, Next.Js 
-
