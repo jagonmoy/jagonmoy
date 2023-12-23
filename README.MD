@@ -8,7 +8,7 @@
 - Connect with me : <br> <br>
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" />
 <br>
-Passionate problem solver dedicated to leveraging technology for real-life solutions. Currently optimizing frontend performance in *Next.js*, exploring new concepts. Experienced in full-stack development and Natural Language Processing. Adept at solving data structure and algorithm problems, a habit cultivated since academic life.
+Passionate problem solver dedicated to leveraging technology for real-life solutions. Currently optimizing frontend performance in **NextJs** , exploring new concepts. Experienced in full-stack development and Natural Language Processing. Adept at solving data structure and algorithm problems, a habit cultivated since academic life.
 
 # 💻 Tech Stack:
 
