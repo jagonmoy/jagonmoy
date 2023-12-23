@@ -8,7 +8,16 @@
 - Connect with me : <br> <br>
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" />
 <br>
-Enthusiastic programmer committed to leveraging technology for real-world problem-solving. Currently focused on enhancing frontend performance in Next.js using modern concepts. Skilled in full-stack development with a focus on JavaScript technologies. Proficient in Natural Language Processing, with a project that entailed developing a Speaker diarization system with speech recognition in Bangla during my undergraduate studies. Graduated with a Bachelor's degree in Software Engineering from Shahjalal University of Science and Technology, recognized as one of the top universities in Bangladesh for Information Technology, securing place among the top 10 results of the batch.
+I'm a passionate programmer driven to solve real-world challenges through technology, always eager to learn and adapt to new technologies. Currently, I focus on optimizing frontend performance using modern concepts in Next.js.
+
+- Currently serving as an Associate Software Engineer at Cefalo, contributing to the development of a multi-tenant subscription management system.
+- Introduced and configured end-to-end testing with Playwright and wrote frontend unit tests using Jest.
+- Integrated an external tenant application with our OIDC-based authentication system using Next Auth.
+- Developed responsive UIs with Tailwind CSS and significantly improved frontend performance in Next.js.
+- Led the implementation of key frontend features, including the integration of custom fields (tenant-defined) and marketing automation configuration.
+- Solved 1200+ data structure and algorithms problems, achieving a Codeforces rating of 1500+.
+- Experienced in building full-stack applications in the JavaScript domain.
+- Contributed to the field of Natural Language Processing during my undergraduate thesis titled 'Speaker diarization with speech recognition in Bangla.
 
 # 💻 Tech Stack:
 
