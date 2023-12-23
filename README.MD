@@ -8,16 +8,16 @@
 - Connect with me : <br> <br>
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" />
 <br>
-I'm a passionate programmer driven to solve real-world challenges through technology, always eager to learn and adapt to new technologies. Currently, I focus on optimizing frontend performance using modern concepts in Next.js.
+I'm a passionate programmer driven to solve real-world challenges through technology, always eager to learn and adapt to new technologies. Currently, I focus on optimizing frontend performance using modern concepts in Next.js. <br> <br>
 
 - Currently serving as an Associate Software Engineer at Cefalo, contributing to the development of a multi-tenant subscription management system.
-- Introduced and configured end-to-end testing with Playwright and wrote frontend unit tests using Jest.
-- Integrated an external tenant application with our OIDC-based authentication system using Next Auth.
-- Developed responsive UIs with Tailwind CSS and significantly improved frontend performance in Next.js.
-- Led the implementation of key frontend features, including the integration of custom fields (tenant-defined) and marketing automation configuration.
+- Introduced and configured **end-to-end testing with Playwright** and wrote frontend **unit tests using Jest**.
+- Integrated an external tenant application with our **OIDC-based authentication system using Next Auth**.
+- Developed responsive UIs with **Tailwind CSS** and significantly improved frontend performance in **NextJs**.
+- Led the implementation of key frontend features, including the integration of **custom fields (tenant-defined) and marketing automation configuration**.
 - Solved 1200+ data structure and algorithms problems, achieving a Codeforces rating of 1500+.
 - Experienced in building full-stack applications in the JavaScript domain.
-- Contributed to the field of Natural Language Processing during my undergraduate thesis titled 'Speaker diarization with speech recognition in Bangla.
+- Contributed to the field of Natural Language Processing during my undergraduate thesis titled **Speaker diarization with speech recognition in Bangla**.
 
 # 💻 Tech Stack:
 
