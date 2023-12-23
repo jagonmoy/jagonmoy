@@ -8,7 +8,7 @@
 - Connect with me : <br> <br>
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" />
 <br>
-Enthusiastic programmer committed to leveraging technology for real-world problem-solving. Currently focused on enhancing frontend performance in Next.js using modern concepts. Skilled in full-stack development with a focus on JavaScript technologies. Proficient in Natural Language Processing, with a project that entailed developing a Speaker diarization system with speech recognition in Bangla during my undergraduate studies. Graduated with a Bachelor's degree in Software Engineering from Shahjalal University of Science and Technology, recognized as one of the top universities in Bangladesh for Information Technology. Achieved a position among the top 10 performers in my academic batch.
+Enthusiastic programmer committed to leveraging technology for real-world problem-solving. Currently focused on enhancing frontend performance in Next.js using modern concepts. Skilled in full-stack development with a focus on JavaScript technologies. Proficient in Natural Language Processing, with a project that entailed developing a Speaker diarization system with speech recognition in Bangla during my undergraduate studies. Graduated with a Bachelor's degree in Software Engineering from Shahjalal University of Science and Technology, recognized as one of the top universities in Bangladesh for Information Technology, securing place among the top 10 results of the batch.
 
 # 💻 Tech Stack:
 
