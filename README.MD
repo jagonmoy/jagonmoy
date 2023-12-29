@@ -19,7 +19,10 @@ I'm a passionate programmer driven to solve real-world challenges through techno
 - Experienced in building full-stack applications in the JavaScript domain.
 - Contributed to the field of Natural Language Processing during my undergraduate thesis titled **Speaker diarization with speech recognition in Bangla**.
 
+
+
 # :technologist: Top Tech Stack
+
 
 ![NextJs](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,7 +32,11 @@ I'm a passionate programmer driven to solve real-world challenges through techno
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 
+
+
+
 # 💻 Other Tech Stack:
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
