@@ -21,13 +21,15 @@ I'm passionate about leveraging technology to address real-world challenges. As 
 
     - Implemented custom fields integration for a multi-tenant system.
 
+    - Used MJML for designing responsive and visually appealing email templates.
+
 - **Backend Development**
 
     - Improved system efficiency by optimizing backend APIs and SQL queries.
 
     - Worked with event queue architecture to facilitate automated email functions for both scheduled and event-driven tasks, supporting over 50,000 users.
 
-    - Used MJML for designing responsive and visually appealing email templates.
+    
 
 - **Authentication**
 
