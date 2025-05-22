@@ -9,7 +9,7 @@ Connect with me :
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" />
 <br>
 
-Im a Software Engineer with 2.5+ years of experience  and passionate about building scalable systems that solve real-world challenges. With experience developing complex, multi-tenant platforms, I enjoy crafting reliable, high-performance applications across the full stack. I have a strong foundation in algorithms and data structures, and I'm equally drawn to research—especially in Natural Language Processing and the use of large language models to improve software development workflows, automation, and user experience.
+I am a Software Engineer with 2.5+ years of experience  and passionate about building scalable systems that solve real-world challenges. With experience developing complex, multi-tenant platforms, I enjoy crafting reliable, high-performance applications across the full stack. I have a strong foundation in algorithms and data structures, and I'm equally drawn to research—especially in Natural Language Processing and the use of large language models to improve software development workflows, automation, and user experience.
 <br> <br>
 
 - Has experience building scalable, multi-tenant SaaS applications used by hundreds of thousands of users.
