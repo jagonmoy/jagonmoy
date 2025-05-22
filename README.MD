@@ -4,48 +4,41 @@
 
 <br>
 
-- 📫 Reach me at : **jagonmoydey1997@gmail.com** <br>
-- Connect with me : <br> <br>
+📫 Reach me at : **jagonmoydey1997@gmail.com** <br>
+Connect with me : 
 <a href="https://www.linkedin.com/in/jagonmoy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jagonmoy/" height="30" width="30" />
 <br>
-I'm passionate about leveraging technology to address real-world challenges. As a Full Stack Software Engineer, I specialize in using NextJs for front-end development and NestJs for the back-end. My expertise extends to solving complex problems with data structures and algorithms, and I have experience working with Natural Language Processing.
+
+Im a Software Engineer with 2.5+ years of experience  and passionate about building scalable systems that solve real-world challenges. With experience developing complex, multi-tenant platforms, I enjoy crafting reliable, high-performance applications across the full stack. I have a strong foundation in algorithms and data structures, and I'm equally drawn to research—especially in Natural Language Processing and the use of large language models to improve software development workflows, automation, and user experience.
 <br> <br>
 
-- **Frontend Development**
+- Has experience building scalable, multi-tenant SaaS applications used by hundreds of thousands of users.
 
-    - Utilized NextJs for enhanced performance, leveraging Server Side Rendering, Static Site Generation, client side rendering etc.
+- Has experience working with event queue architecture to build automated email systems that handle both scheduled and real-time triggers efficiently.
 
-    - Designed responsive UIs with Tailwind CSS and created reusable React components to minimize code duplication.
 
-    - Optimized image handling using next/image and Imgix for improved performance and efficiency.
+- Experienced in optimizing web performance and SEO through efficient data fetching, caching, and media delivery strategies.
 
-    - Implemented custom fields integration for a multi-tenant system.
+- Has worked with rich media handling—developed features for optimized video streaming using MUX and efficient image rendering with Imgix and Next/Image.
 
-    - Used MJML for designing responsive and visually appealing email templates.
+- Proficient in developing responsive user interfaces with reusable components and supporting dynamic configurations.
 
-- **Backend Development**
+- Experienced in integrating applications with OIDC-based authentication systems using NextAuth, including support for dynamic redirect and callback flows tailored to requirements.
 
-    - Improved system efficiency by optimizing backend APIs and SQL queries.
+- Has experience creating dynamic, responsive email templates and documents using MJML, custom renderers, and PDF generators.
 
-    - Worked with event queue architecture to facilitate automated email functions for both scheduled and event-driven tasks, supporting over 50,000 users.
+- Capable of enhancing backend performance by optimizing not only SQL queries (PostgreSQL) but also working efficiently with NoSQL databases like MongoDB, in-memory data stores like Redis, and headless CMS platforms like Sanity—improving data access and query performance across different storage systems.
 
-    
+- Experienced in integrating Playwright and Jest into CI/CD pipelines for automated, reliable testing practices.
 
-- **Authentication**
+- Skilled in mentoring junior engineers through code reviews, training sessions, and workshop planning.
 
-    - Integrated the application with an OIDC-based authentication system using NextAuth.
+- Strong background in problem solving, with over 1200 algorithmic problems solved and 80+ contest participations.
 
-- **Testing**
+- Worked on building an end-to-end system that combines speaker diarization and speech recognition to generate structured transcripts in Bengali—a low-resource language. Designed the pipeline using voice activity detection, speaker segmentation, clustering, and transcription with deep learning models and cloud-based APIs.
 
-    - Employed Playwright for end-to-end testing and Jest for unit testing to ensure the application's robustness and reliability.
+- Passionate about applying large language models to streamline software development workflows and enhance engineering productivity.
 
-- **Data Structures and Algorithms** 
-
-    - Solved 1200+ data structure and algorithms problems, achieving a Codeforces rating of 1500+. 
-
-- **Machine Learning**
-
-    - Contributed to the field of Natural Language Processing during my undergraduate thesis titled **Speaker diarization with speech recognition in Bangla**.
 
 
 
@@ -66,6 +59,7 @@ I'm passionate about leveraging technology to address real-world challenges. As 
 ![postGres](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 )
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
