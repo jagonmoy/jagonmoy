@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jagonmoy Dey  
 
-💻 Software Engineer (3+ yrs) | 🔬 Research interests in **NLP & GenAI for Software Engineering**  
+💻 Software Engineer (4 yrs) | 🔬 Research interests in **NLP & GenAI for Software Engineering**  
 
 ---
 
